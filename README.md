@@ -1,4 +1,4 @@
-# Group assignment 1.7
+# Group assignment 1.7: Fit Happens
 
 *[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
 
