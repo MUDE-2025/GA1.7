@@ -1,6 +1,6 @@
 # Group Assignment week 7: I'm BLUE dabadidabada
 
-You can access this assignment with the following link: `classroom.github.com/a/<xxxxxxx>`.
+You can access this assignment with the following link: `https://classroom.github.com/a/0jWvUsD5`.
 
 A geothermal power plant generates electricity using steam or hot water from the subsurface. Hot water or steam is extracted from underground reservoirs and piped to a power plant, where it drives turbines connected to generators, producing electricity. The used water or steam is typically reinjected back into the subsurface. Water extraction and injection may cause deformations at the Earth’s surface: subsidence in case of extraction, uplift in case of injection. 
 
