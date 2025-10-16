@@ -10,4 +10,4 @@ With InSAR we can estimate surface displacements from time series of radar image
 
 You will also have a look at GNSS data. In the project repository on GitLab, you will find two data files for this assignment: `gnss_observations.csv`, and `insar_observations.csv`. The files consist of three columns, two for the dates and one for the observations. In the GNSS and InSAR files the observations are observed vertical displacements (units of m).
 
-> By Lina Hagenah, Delft University of Technology. CC BY 4.0, more info on the Credits page of Workbook. 
+> By Lina Hagenah and Sandra Verhagen, Delft University of Technology. CC BY 4.0, more info on the Credits page of Workbook. 

@@ -169,5 +169,3 @@ PLUS
 
 
 > By Sandra Verhagen, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
-
-*Copyright 2025 MUDE, TU Delft. This work is licensed under CC BY 4.0 License.*
