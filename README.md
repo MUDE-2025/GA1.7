@@ -1,4 +1,4 @@
-# Group assignment 1.7: Fit Happens
+# Group assignment 1.7: I'm BlUE dabadidabada
 
 *[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
 

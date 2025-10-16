@@ -1,4 +1,6 @@
-# Group Assignment 1.7: Modelling surface uplift due to groundwater variations
+# Group Assignment 1.7: I'm BLUE dabadidabada 
+
+### Modelling surface uplift due to groundwater variations
 
 *[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
 
