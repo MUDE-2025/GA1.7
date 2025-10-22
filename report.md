@@ -1,11 +1,4 @@
-# Group Assignment 1.7: I'm BLUE dabadidabada
-
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
-
-*Written by: `Sandra Verhagen, Lina Hagenah`*
-
-*Due: Friday, October 17, 2025.*
-
+# Report
 
 ## Part 1
 
@@ -168,4 +161,4 @@ PLUS
 % solution_end
 
 
-> By Sandra Verhagen, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
+> By Sandra Verhagen and Lina Hagenah, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
