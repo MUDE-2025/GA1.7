@@ -1,4 +1,4 @@
-# Group Assignment week 7: I'm BLUE dabadidabada
+# Group Assignment week 1.7: I'm BLUE dabadidabada
 
 Due: `Friday 17th October, 2025`
 
