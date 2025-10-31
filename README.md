@@ -2,7 +2,7 @@
 
 Due: `Friday 17th October, 2025`
 
-You can access this assignment with the following link: `https://classroom.github.com/a/0jWvUsD5`.
+You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/GA1.7/README.html. After the deadline, this link will include solutions. The preview of the assignment version is shared here: https://mude.citg.tudelft.nl/workbook-2025/no_solutions/assignments/GA1.7/README.html. Pages can be downloaded as `.md` and `.ipynb` files to your computer. You can obtain your personal repository for submission on: https://classroom.github.com/a/0jWvUsD5.
 
 A geothermal power plant generates electricity using steam or hot water from the subsurface. Hot water or steam is extracted from underground reservoirs and piped to a power plant, where it drives turbines connected to generators, producing electricity. The used water or steam is typically reinjected back into the subsurface. Water extraction and injection may cause deformations at the Earth’s surface: subsidence in case of extraction, uplift in case of injection. 
 
